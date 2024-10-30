@@ -1,41 +1,34 @@
 # 👋 Hi there, I'm NoTinyxd!
 
-**Python Developer | Automation Enthusiast**
+**Python Developer | Discord Bot Expert**
 
-Welcome to my GitHub profile! I'm a Python developer focused on building tools, automation scripts, and bots to simplify processes and make tasks more efficient. I enjoy learning new technologies and diving into challenging projects that help me grow as a developer.
+Welcome to my GitHub profile! I’m a developer skilled in Python and specialized in building Discord bots and automation tools. My focus is on creating smooth, efficient, and reliable systems that enhance user experiences and simplify complex processes.
 
 ---
 
 ### 🛠️ Skills and Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="left">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+   <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bot"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
 ### 🚀 Projects
 
-Here are a few of my projects that showcase my skills:
-
-- **[Discord Bot for Automation](https://github.com/NoTinyxd/discord-bot-automation)** – A custom Discord bot for automating tasks, managing roles, and running useful commands.  
-- **[Data Processing Tool](https://github.com/NoTinyxd/data-processing-tool)** – A Python tool for analyzing, cleaning, and transforming datasets with ease.
-- **[GitHub Stats Tracker](https://github.com/NoTinyxd/github-stats-tracker)** – Track and visualize your GitHub activity and repositories in real-time.
+- **Discord Bot Automation** – A custom bot that manages roles, automates tasks, and provides valuable utility functions.
+- **Data Processing Tool** – Python scripts designed for efficient data analysis and transformation.
+- **GitHub Activity Tracker** – A project that tracks and displays GitHub activity to keep contributors informed and engaged.
 
 ---
 
-### 📊 GitHub Stats
+### 🌟 Fun Facts and Animations
 
-![NoTinyxd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoTinyxd&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=radical)
-
----
-
-### 🤝 Let's Connect
-
-- **Twitter**: [@NoTinyxd](https://twitter.com/NoTinyxd)
-- **LinkedIn**: [NoTinyxd](https://linkedin.com/in/NoTinyxd)
-- **Email**: [notinyxd@example.com](mailto:notinyxd@example.com)
-
-Thanks for visiting! 😊 Feel free to reach out or check out my projects!
+```diff
++ Python Developer and Bot Automation Enthusiast
+! Skilled in creating interactive, user-friendly Discord bots
+- Never stops exploring new Python tricks!
