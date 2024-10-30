@@ -2,7 +2,7 @@
 
 **Python Developer | Automation Enthusiast**
 
-Welcome to my GitHub profile! I'm a Python developer focused on building tools, automation scripts, and bots that make processes easier and more efficient. I enjoy learning, exploring new technologies, and tackling challenging projects that allow me to grow as a developer.
+Welcome to my GitHub profile! I'm a Python developer focused on building tools, automation scripts, and bots to simplify processes and make tasks more efficient. I enjoy learning new technologies and diving into challenging projects that help me grow as a developer.
 
 ---
 
@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I'm a Python developer focused on building tools, 
 
 Here are a few of my projects that showcase my skills:
 
-- **[Discord Bot for Automation](https://github.com/NoTinyxd/discord-bot-automation)** – A custom Discord bot for automating tasks, managing roles, and executing useful commands.  
-- **[Data Processing Tool](https://github.com/NoTinyxd/data-processing-tool)** – A Python tool for analyzing, cleaning, and transforming datasets efficiently.
-- **[GitHub Stats Tracker](https://github.com/NoTinyxd/github-stats-tracker)** – Real-time tracking of GitHub activity and repositories.
+- **[Discord Bot for Automation](https://github.com/NoTinyxd/discord-bot-automation)** – A custom Discord bot for automating tasks, managing roles, and running useful commands.  
+- **[Data Processing Tool](https://github.com/NoTinyxd/data-processing-tool)** – A Python tool for analyzing, cleaning, and transforming datasets with ease.
+- **[GitHub Stats Tracker](https://github.com/NoTinyxd/github-stats-tracker)** – Track and visualize your GitHub activity and repositories in real-time.
 
 ---
 
