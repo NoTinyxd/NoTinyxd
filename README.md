@@ -37,7 +37,7 @@ skills = {
 ### 🚀 Featured Projects
 
 <!-- Add your best projects here -->
-- **[realtinyxd]** - Description of your most impressive Discord bot
+- **[..]** - Description of your most impressive Discord bot
 - **[No tool rn]** - Description of a cybersecurity tool you've built
 - **[discord token onliner bot , token checker , promo gen , etc]** - Description of a notable Python project
 
@@ -49,9 +49,9 @@ skills = {
 
 ### 🤝 Let's Connect
 
-- 💬 Discord: `your_discord_tag`
+- 💬 Discord: `realtinyxd`
 - 📧 Email: hamzasaleem56785@gmail.com
-- 🔗 LinkedIn: [Your LinkedIn Profile]
+- 🔗 LinkedIn: [Soon]
 
 ### 💡 Fun Facts
 
