@@ -1,67 +1,38 @@
-# 👋 Hey there! I'm [NoTinyxd]
+# Hi there, I'm Hamza Saleem! 👋
+**Username: NoTinyxd | Discord: notinyxd**
 
-## 🤖 Discord Tools Developer | 🐍 Python Enthusiast | 🔒 Cybersecurity Student
-
-Welcome to my corner of GitHub! I'm passionate about building powerful Discord tools and diving deep into the world of cybersecurity.
-
-### 🔧 What I'm Building
-
-- **Discord Bots & Tools** - Creating automation, moderation, and utility bots to enhance server experiences
-- **Python Projects** - From web scraping to automation scripts, I love solving problems with Python
-- **Security Tools** - Learning by building - developing penetration testing utilities and security analysis tools
-
-### 🛠️ Tech Stack
-
-```python
-skills = {
-    "languages": ["Python", "JavaScript", "Bash"],
-    "frameworks": ["Discord.py", "Flask", "FastAPI"],
-    "databases": ["SQLite", "PostgreSQL", "MongoDB"],
-    "tools": ["Git", "Docker", "Linux", "Wireshark", "Nmap"],
-    "learning": ["Penetration Testing", "Network Security", "Cryptography"]
-}
-```
-
-### 🎯 Current Focus
-
-- 🔐 **Cybersecurity Journey** - Studying ethical hacking, network security, and vulnerability assessment
-- 🤖 **Discord Bot Development** - Building feature-rich bots with advanced functionality
-- 📚 **Continuous Learning** - Always exploring new Python libraries and security frameworks
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-### 🚀 Featured Projects
-
-<!-- Add your best projects here -->
-- **[..]** - Description of your most impressive Discord bot
-- **[No tool rn]** - Description of a cybersecurity tool you've built
-- **[discord token onliner bot , token checker , promo gen , etc]** - Description of a notable Python project
-
-### 📜 Certifications & Learning Path
-
-- 🎓 Currently pursuing: [Certification name, e.g., CEH, OSCP, etc.]
-- 📖 Learning platforms: TryHackMe, HackTheBox, Cybrary
-- 🔍 Focus areas: Web application security, network penetration testing
-
-### 🤝 Let's Connect
-
-- 💬 Discord: `realtinyxd`
-- 📧 Email: hamzasaleem56785@gmail.com
-- 🔗 LinkedIn: [Soon]
-
-### 💡 Fun Facts
-
-- 🌙 Night owl coder - best code happens after midnight
-- ☕ Powered by coffee and curiosity
-- 🐧 Linux enthusiast
-- 🎮 Gaming server administrator
+Python developer focused on automation and web scraping. I enjoy building tools that solve real problems and make tasks more efficient.
 
 ---
 
-*"Security is not a product, but a process" - Bruce Schneier*
+### 🛠️ What I Do
+- **Python Automation** - Creating scripts and bots to automate repetitive tasks
+- **Web Scraping** - Extracting data from websites and APIs
+- **Discord Tools** - Building utilities for Discord automation
 
-⭐ **Feel free to explore my repositories and don't forget to star anything you find useful!**
+---
+
+### 🚀 Projects I've Built
+- **Discord Account Creator** - Automated account creation tool
+- **Discord Forgot Password Tool** - Password recovery automation
+- **Token Onliner Bot** - Token validation and management
+- **Token Checker** - Bulk token verification tool  
+- **Humanizer** - Profile customization tool (pfp, display name, bio, pronouns, hypesquad, banner)
+- **Simple hCaptcha Accessibility Solver** - Text challenge solver for Discord
+
+---
+
+### 🔧 Skills
+- Python Development
+- Web Scraping
+- API Integration
+- Discord Bot Development
+- Automation Workflows
+
+---
+
+### 📫 Connect with Me
+- **Discord**: notinyxd
+- **GitHub**: NoTinyxd
+
+Always open to collaborating on interesting Python automation projects!
