@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hamza Saleem (notinyxd)
+# Hi 👋 I'm Hamza Saleem (notiny)
 
 **Python Developer | Automation Enthusiast | Learning Reverse Engineering**
 
@@ -35,6 +35,13 @@ I'm all about **automation** and making computers do the boring work. Currently 
 
 ---
 
+## 💻 My Setup
+
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
+
+---
+
 ## 📫 Contact Me
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1069163000910585966)](https://discord.com/users/1069163000910585966)
@@ -48,5 +55,7 @@ I'm all about **automation** and making computers do the boring work. Currently 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=NoTinyxd&color=blueviolet&style=flat-square&label=Profile+Views)
 
 *Currently learning C++ and reverse engineering*
