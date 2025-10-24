@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hamza Saleem (notiny)
+# Hi 👋 I'm Hamza Saleem (notinyxd)
 
 **Python Developer | Automation Enthusiast | Learning Reverse Engineering**
 
@@ -6,17 +6,17 @@ I build tools that automate stuff and solve problems that shouldn't exist.
 
 ---
 
-## 🚀 What I Do
+## What I Do
 
 I'm all about **automation** and making computers do the boring work. Currently learning reverse engineering and expanding my skillset with C++.
 
-### 💻 Languages I Code:
+### Languages I Code:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) *(learning)*
 
 ---
 
-## 🛠️ Skills & Expertise
+## Skills & Expertise
 
 - **Python Development** - Automation, scripting, and building practical tools
 - **Automation** - Making repetitive tasks disappear
@@ -26,7 +26,7 @@ I'm all about **automation** and making computers do the boring work. Currently 
 
 ---
 
-## 🔥 Notable Projects
+## Projects I've Built
 
 - **Discord Account Creator** - Automated account generation system
 - **hCaptcha Accessibility Solver** - Accessibility-focused CAPTCHA bypass
@@ -35,24 +35,30 @@ I'm all about **automation** and making computers do the boring work. Currently 
 
 ---
 
-## 💻 My Setup
+## My Setup
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1069163000910585966)](https://discord.com/users/1069163000910585966)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoTinyxd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+---
+
+## Contribution Graph
+
+![Snake animation](https://raw.githubusercontent.com/NoTinyxd/NoTinyxd/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
