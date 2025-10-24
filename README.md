@@ -54,10 +54,6 @@ I'm all about **automation** and making computers do the boring work. Currently 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
----
-
-## Contribution Graph
-
 ![Snake animation](https://raw.githubusercontent.com/NoTinyxd/NoTinyxd/output/github-contribution-grid-snake-dark.svg)
 
 ---
