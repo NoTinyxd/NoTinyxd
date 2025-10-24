@@ -1,38 +1,52 @@
-# Hi there, I'm Hamza Saleem! 👋
-**Username: NoTinyxd | Discord: notinyxd**
+# Hi 👋 I'm Hamza Saleem (notiny)
 
-Python developer focused on automation and web scraping. I enjoy building tools that solve real problems and make tasks more efficient.
+**Python Developer | Automation Enthusiast | Learning Reverse Engineering**
 
----
-
-### 🛠️ What I Do
-- **Python Automation** - Creating scripts and bots to automate repetitive tasks
-- **Web Scraping** - Extracting data from websites and APIs
-- **Discord Tools** - Building utilities for Discord automation
+I build tools that automate stuff and solve problems that shouldn't exist.
 
 ---
 
-### 🚀 Projects I've Built
-- **Discord Account Creator** - Automated account creation tool
-- **Discord Forgot Password Tool** - Password recovery automation
-- **Token Onliner Bot** - Token validation and management
-- **Token Checker** - Bulk token verification tool  
-- **Humanizer** - Profile customization tool (pfp, display name, bio, pronouns, hypesquad, banner)
-- **Simple hCaptcha Accessibility Solver** - Text challenge solver for Discord
+## 🚀 What I Do
+
+I'm all about **automation** and making computers do the boring work. Currently learning reverse engineering and expanding my skillset with C++.
+
+### 💻 Languages I Code:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) *(learning)*
 
 ---
 
-### 🔧 Skills
-- Python Development
-- Web Scraping
-- API Integration
-- Discord Bot Development
-- Automation Workflows
+## 🛠️ Skills & Expertise
+
+- **Python Development** - Automation, scripting, and building practical tools
+- **Automation** - Making repetitive tasks disappear
+- **AI/ML** - Training YOLO models and working with computer vision
+- **CAPTCHA Solutions** - hCaptcha accessibility & image solvers
+- **Bot Development** - Discord automation and account systems
 
 ---
 
-### 📫 Connect with Me
-- **Discord**: notinyxd
-- **GitHub**: NoTinyxd
+## 🔥 Notable Projects
 
-Always open to collaborating on interesting Python automation projects!
+- **Discord Account Creator** - Automated account generation system
+- **hCaptcha Accessibility Solver** - Accessibility-focused CAPTCHA bypass
+- **hCaptcha Image Solver** - Computer vision based CAPTCHA solution
+- **And much more...** - Check out my repos for more automation tools
+
+---
+
+## 📫 Contact Me
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1069163000910585966)](https://discord.com/users/1069163000910585966)
+
+---
+
+## 📊 GitHub Stats
+
+![notiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=notiny&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notiny&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+---
+
+*Currently learning C++ and reverse engineering*
