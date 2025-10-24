@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hamza Saleem (notiny)
+# Hi 👋 I'm Hamza Saleem (notinyxd)
 
 **Python Developer | Automation Enthusiast | Learning Reverse Engineering**
 
@@ -43,9 +43,9 @@ I'm all about **automation** and making computers do the boring work. Currently 
 
 ## 📊 GitHub Stats
 
-![notiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=notiny&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoTinyxd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=notiny&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ---
 
