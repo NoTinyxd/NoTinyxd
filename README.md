@@ -8,7 +8,7 @@ I build tools that automate stuff and solve problems that shouldn't exist.
 
 ## What I Do
 
-I'm all about **automation** and making computers do the boring work. Currently learning reverse engineering and expanding my skillset with C++.
+I'm all about **automation** and making computers do the boring work. Currently learning sql injection and expanding my skillset with C++.
 
 ### Languages I Code:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
