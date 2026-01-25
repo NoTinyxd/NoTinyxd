@@ -1,22 +1,26 @@
 # Hi 👋 I'm Hamza Saleem (notinyxd)
-
 **Python Developer | Automation Enthusiast | Learning Reverse Engineering**
 
 I build tools that automate stuff and solve problems that shouldn't exist.
 
 ---
 
-## What I Do
+<details>
+<summary>📖 About Me</summary>
 
-I'm all about **automation** and making computers do the boring work. Currently learning sql injection and expanding my skillset with C++.
+## What I Do
+I'm all about **automation** and making computers do the boring work. Currently learning SQL injection and expanding my skillset with C++.
 
 ### Languages I Code:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) *(learning)*
 
+</details>
+
 ---
 
-## Skills & Expertise
+<details>
+<summary>🛠️ Skills & Expertise</summary>
 
 - **Python Development** - Automation, scripting, and building practical tools
 - **Automation** - Making repetitive tasks disappear
@@ -24,35 +28,45 @@ I'm all about **automation** and making computers do the boring work. Currently 
 - **CAPTCHA Solutions** - hCaptcha accessibility & image solvers
 - **Bot Development** - Discord automation and account systems
 
+</details>
+
 ---
 
-## Projects I've Built
+<details>
+<summary>🚀 Projects I've Built</summary>
 
 - **Discord Account Creator** - Automated account generation system
 - **hCaptcha Accessibility Solver** - Accessibility-focused CAPTCHA bypass
 - **hCaptcha Image Solver** - Computer vision based CAPTCHA solution
 - **And much more...** - Check out my repos for more automation tools
 
+</details>
+
 ---
 
-## My Setup
+<details>
+<summary>💻 My Setup</summary>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
----
-
-## Contact Me
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1069163000910585966)](https://discord.com/users/1069163000910585966)
+</details>
 
 ---
 
-## GitHub Stats
+<details open>
+<summary>📊 GitHub Stats</summary>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NoTinyxd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</details>
+
+---
+
+## Contact Me
+[![Discord Presence](https://lanyard.cnrad.dev/api/1069163000910585966)](https://discord.com/users/1069163000910585966)
 
 ---
 
