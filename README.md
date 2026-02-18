@@ -1,12 +1,5 @@
 <div align="center">
 
-<a href="https://lanyard.cnrad.dev/api/1069163000910585966">
-  <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true" alt="Discord Presence"/>
-</a>
-
-<br/>
-<br/>
-
 ```
 NoTinyxd
 ```
@@ -66,6 +59,18 @@ NoTinyxd
 ---
 
 [![Snake animation](https://raw.githubusercontent.com/NoTinyxd/NoTinyxd/output/snake.svg)](https://github.com/NoTinyxd)
+
+---
+
+### find me
+
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1069163000910585966)
+
+&nbsp;
+
+<a href="https://discord.com/users/1069163000910585966">
+  <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true" alt="Discord Presence"/>
+</a>
 
 ---
 
