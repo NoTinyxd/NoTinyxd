@@ -47,7 +47,7 @@ currently learning frontend and backend development. writing python automation t
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=NoTinyxd&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
+<img src="https://streak-stats.demolab.com?user=NoTinyxd&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
 
 </div>
 
