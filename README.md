@@ -1,65 +1,105 @@
-### Hi 👋! My name is Hamza and I'm a developer / automation enthusiast, from Pakistan.
+# Hamza — Developer & Automation Enthusiast
 
+Welcome to my profile! I am Hamza, a developer and automation enthusiast based in Pakistan. My focus is on crafting efficient solutions, learning new technologies, and building tools for automation, artificial intelligence, and backend systems.
+
+---
+
+## GitHub Stats
+
+[![Stats Graph](https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/NoTinyxd)
 &nbsp;
+[![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false)](https://github.com/NoTinyxd)
 
-[![stats graph](https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/NoTinyxd)
-&nbsp;
-[![languages graph](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false)](https://github.com/NoTinyxd)
+---
 
-&nbsp;
+## Languages I Use
 
-#### Languages I code:
+<table>
+  <tr>
+    <td>
+      <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![python logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)](https://www.python.org/)
-&nbsp;
-[![javascript logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-&nbsp;
-[![html logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-&nbsp;
-[![css logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+---
 
-&nbsp;
+## Languages I'm Learning
 
-#### Languages I'm learning:
+<table>
+  <tr>
+    <td>
+      <a href="https://isocpp.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![c++ logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)](https://isocpp.org/)
+---
 
-&nbsp;
+## Backend & Tools
 
-#### Backend & Tools:
+<table>
+  <tr>
+    <td>
+      <a href="https://nodejs.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://expressjs.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![nodejs logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)](https://nodejs.org/)
-&nbsp;
-[![express logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)](https://expressjs.com/)
+---
 
-&nbsp;
+## What I Do
 
-#### What I do:
+- **Python:** Automation, scripting, computer vision, bot systems  
+- **Backend:** Node.js & Express, REST APIs  
+- **Frontend:** HTML, CSS, JavaScript (learning React)  
+- **Reverse Engineering:** Binary analysis and understanding software internals  
+- **AI / ML:** Training YOLO models, CAPTCHA solvers, computer vision tools  
+- **Automation:** Building systems to handle repetitive and complex tasks  
 
-- 🐍 **Python** — Automation, scripting, computer vision, bot systems
-- 🌐 **Backend** — Node.js & Express, REST APIs
-- 🎨 **Frontend** — HTML, CSS, JavaScript *(learning React)*
-- 🔍 **Reverse Engineering** — Learning binary analysis and how software works under the hood
-- 🤖 **AI / ML** — Training YOLO models, CAPTCHA solvers, computer vision tools
-- ⚙️ **Automation** — Making computers do the boring work
+---
 
-&nbsp;
+## My Setup
 
-#### My setup:
+[![Linux](https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge)](https://www.linux.org/)
+[![Windows](https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge)](https://www.microsoft.com/windows)
 
-[![linux badge](https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge)](https://www.linux.org/)
-[![windows badge](https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge)](https://www.microsoft.com/windows)
+---
 
-&nbsp;
+## Contact
 
-#### Contact me:
+[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1069163000910585966)
 
-[![discord badge](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1069163000910585966)
+---
 
-&nbsp;
-
-[![Snake animation](https://raw.githubusercontent.com/NoTinyxd/NoTinyxd/output/snake.svg)](https://github.com/NoTinyxd)
-
-&nbsp;
+## Fun & Stats
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NoTinyxd&style=for-the-badge&color=brightgreen)](https://github.com/NoTinyxd)
+
+---
