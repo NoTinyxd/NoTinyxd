@@ -1,8 +1,8 @@
 <div align="center">
 
-```
-NoTinyxd
-```
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey+%2C+i'm+NoTinyxd;building+%26+breaking+things;learning+how+it+all+works" alt="Typing SVG" /></a>
+
+&nbsp;
 
 **building things. breaking things. learning how they work.**
 
@@ -57,8 +57,6 @@ NoTinyxd
 [![Windows](https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge)](https://www.microsoft.com/windows)
 
 ---
-
-[![Snake animation](https://raw.githubusercontent.com/NoTinyxd/NoTinyxd/output/snake.svg)](https://github.com/NoTinyxd)
 
 ---
 
