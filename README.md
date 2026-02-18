@@ -1,105 +1,74 @@
-# Hamza — Developer & Automation Enthusiast
+<div align="center">
 
-Welcome to my profile! I am Hamza, a developer and automation enthusiast based in Pakistan. My focus is on crafting efficient solutions, learning new technologies, and building tools for automation, artificial intelligence, and backend systems.
+<a href="https://lanyard.cnrad.dev/api/1069163000910585966">
+  <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true" alt="Discord Presence"/>
+</a>
 
----
+<br/>
+<br/>
 
-## GitHub Stats
+```
+NoTinyxd
+```
 
-[![Stats Graph](https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/NoTinyxd)
-&nbsp;
-[![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false)](https://github.com/NoTinyxd)
+**building things. breaking things. learning how they work.**
 
----
+[![Website](https://img.shields.io/badge/notinyxd.xyz-000?style=flat-square&logo=firefox&logoColor=white)](https://notinyxd.xyz)
+[![GitHub followers](https://img.shields.io/github/followers/notinyxd?style=flat-square&color=000&labelColor=000&logo=github)](https://github.com/NoTinyxd)
 
-## Languages I Use
-
-<table>
-  <tr>
-    <td>
-      <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## Languages I'm Learning
+### what i work with
 
-<table>
-  <tr>
-    <td>
-      <a href="https://isocpp.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
 
----
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## Backend & Tools
+</div>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://nodejs.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://expressjs.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
+currently learning frontend and backend development. writing python automation tools on the side. poking around reverse engineering when something looks interesting enough to take apart.
 
 ---
 
-## What I Do
+### stats
 
-- **Python:** Automation, scripting, computer vision, bot systems  
-- **Backend:** Node.js & Express, REST APIs  
-- **Frontend:** HTML, CSS, JavaScript (learning React)  
-- **Reverse Engineering:** Binary analysis and understanding software internals  
-- **AI / ML:** Training YOLO models, CAPTCHA solvers, computer vision tools  
-- **Automation:** Building systems to handle repetitive and complex tasks  
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NoTinyxd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888&icon_color=ffffff&hide=stars&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTinyxd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888&langs_count=6" />
 
-## My Setup
+</div>
 
-[![Linux](https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge)](https://www.linux.org/)
-[![Windows](https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge)](https://www.microsoft.com/windows)
+<div align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com?user=NoTinyxd&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=888888&sideLabels=888888&dates=555555" />
 
-## Contact
-
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1069163000910585966)
+</div>
 
 ---
 
-## Fun & Stats
+### things i've made
 
-[![Profile Views](https://komarev.com/ghpvc/?username=NoTinyxd&style=for-the-badge&color=brightgreen)](https://github.com/NoTinyxd)
+most of my work is in the repos. check them out — there's python automation tools, some scripts, and stuff i've been building while figuring out web dev.
+
+- **python automation** — collection of tools i wrote to automate things i got tired of doing manually
+- **web development** — frontend and backend projects as i learn the stack
+- **reverse engineering** — digging into binaries, protocols, and software to understand how things actually work under the hood
 
 ---
+
+### find me
+
+[notinyxd.xyz](https://notinyxd.xyz) — my site
+
+---
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=NoTinyxd&color=363636&style=flat-square&label=views" />
+</div>
