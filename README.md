@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=NoTinyxd&style=flat-square&color=363636&label=views" alt="profile views" />
+  <img src="https://count.getloli.com/@:NoTinyxd?name=NoTinyxd&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
 </div>
 
 <br/>
@@ -8,8 +8,8 @@
 
 ### hey, i'm notinyxd
 
-building things. breaking things. learning how they work.  
-mostly python & web stuff — automation, bots, and whatever breaks at 2am
+i love coding, mostly trying new stuff and i'm currently interested in  
+reverse engineering and js things. i code in python mostly and sometimes in js
 
 <br clear="right"/>
 
@@ -49,7 +49,7 @@ mostly python & web stuff — automation, bots, and whatever breaks at 2am
 ### stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
 </div>
 
