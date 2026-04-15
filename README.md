@@ -1,77 +1,78 @@
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NoTinyxd&style=flat-square&color=363636&label=views" alt="profile views" />
+</div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey+%2C+i'm+NoTinyxd;building+%26+breaking+things;learning+how+it+all+works" alt="Typing SVG" /></a>
+<br/>
 
-&nbsp;
+<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px;" />
 
-**building things. breaking things. learning how they work.**
+### hey, i'm notinyxd
 
-[![Website](https://img.shields.io/badge/notinyxd.xyz-000?style=flat-square&logo=firefox&logoColor=white)](https://notinyxd.xyz)
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat-square)](https://discord.com/users/1069163000910585966)
-[![GitHub followers](https://img.shields.io/github/followers/NoTinyxd?style=flat-square&color=000&labelColor=000&logo=github)](https://github.com/NoTinyxd)
+building things. breaking things. learning how they work.  
+mostly python & web stuff — automation, bots, and whatever breaks at 2am
 
+<br clear="right"/>
+
+---
+
+### languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+</div>
+
+### tools & frameworks
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
 ---
 
-### what i work with
+### what i do
 
-<div align="left">
-
-<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/></a> &nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/></a> &nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/></a> &nbsp;
-<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/></a> &nbsp;
-<a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/></a>
-
-</div>
-
-&nbsp;
-
-- **Python** — automation, scripting, computer vision, bot systems
-- **Backend** — Node.js and Express, building REST APIs
-- **Frontend** — HTML, CSS, JavaScript, learning React
-- **Reverse Engineering** — binary analysis, figuring out how software works under the hood
-- **Automation** — making computers do the boring work
-- **Machine Learning** — training YOLO models, CAPTCHA solvers, computer vision tools
+- **automation** — making computers do the boring stuff so i don't have to
+- **bots & tooling** — discord bots, scrapers, weird little utilities
+- **reverse engineering** — poking at software until it confesses how it works
+- **machine learning** — yolo models, captcha solvers, computer vision things
 
 ---
 
 ### stats
 
 <div align="center">
-
-[![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](https://github.com/NoTinyxd)
-&nbsp;
-[![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false)](https://github.com/NoTinyxd)
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
 </div>
-
----
-
-### setup
-
-[![Linux](https://img.shields.io/static/v1?message=Linux&logo=linux&label=&color=FCC624&logoColor=black&labelColor=&style=for-the-badge)](https://www.linux.org/)
-[![Windows](https://img.shields.io/static/v1?message=Windows&logo=windows&label=&color=0078D6&logoColor=white&labelColor=&style=for-the-badge)](https://www.microsoft.com/windows)
-
----
 
 ---
 
 ### find me
 
-[![Discord](https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge)](https://discord.com/users/1069163000910585966)
+<div align="center">
+  <a href="https://notinyxd.xyz">
+    <img src="https://img.shields.io/badge/notinyxd.xyz-000000?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://discord.com/users/1069163000910585966">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat-square" alt="Discord" />
+  </a>
+  <a href="https://github.com/NoTinyxd">
+    <img src="https://img.shields.io/github/followers/NoTinyxd?style=flat-square&color=000&labelColor=000&logo=github" alt="GitHub followers" />
+  </a>
+</div>
 
-&nbsp;
-
-<a href="https://discord.com/users/1069163000910585966">
-  <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true" alt="Discord Presence"/>
-</a>
-
----
+<br/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=NoTinyxd&style=flat-square&color=363636&label=views" />
+  <a href="https://discord.com/users/1069163000910585966">
+    <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true&borderRadius=10px" alt="Discord Presence" />
+  </a>
 </div>
