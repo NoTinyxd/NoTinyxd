@@ -35,25 +35,6 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </div>
 
----
-
-### what i do
-
-- **automation** — making computers do the boring stuff so i don't have to
-- **bots & tooling** — discord bots, scrapers, weird little utilities
-- **reverse engineering** — poking at software until it confesses how it works
-- **machine learning** — yolo models, captcha solvers, computer vision things
-
----
-
-### stats
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NoTinyxd&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=NoTinyxd&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages" />
-</div>
-
----
 
 ### find me
 
