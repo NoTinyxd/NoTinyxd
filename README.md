@@ -1,13 +1,19 @@
-<div <div align="center">
+<div align="center">
   <img src="https://count.getloli.com/@:NoTinyxd?name=NoTinyxd&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
 </div>
+
 <br/>
+
 <img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px;" />
+
 ### hey, i'm notinyxd
 i love coding, mostly trying new stuff and i'm currently interested in  
 reverse engineering and js things. i code in python mostly and sometimes in js
+
 <br clear="right"/>
+
 ---
+
 ### languages
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -16,6 +22,7 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
 </div>
+
 ### tools & frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -24,6 +31,7 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </div>
+
 ### find me
 <div align="center">
   <a href="https://notinyxd.xyz">
