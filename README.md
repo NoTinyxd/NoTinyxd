@@ -31,16 +31,6 @@ reverse engineering and js things. i code in python mostly and sometimes in js
 </div>
 
 ### find me
-<div align="center">
-  <a href="https://notinyxd.xyz">
-    <img src="https://img.shields.io/badge/notinyxd.xyz-000000?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://discord.com/users/1069163000910585966">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=flat-square" alt="Discord" />
-  </a>
-  <a href="https://github.com/NoTinyxd">
-    <img src="https://img.shields.io/github/followers/NoTinyxd?style=flat-square&color=000&labelColor=000&logo=github" alt="GitHub followers" />
-  </a>
   <br/>
   <a href="https://discord.com/users/1069163000910585966">
     <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true&borderRadius=10px" alt="Discord Presence" />
