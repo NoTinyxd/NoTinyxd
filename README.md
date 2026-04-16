@@ -2,9 +2,7 @@
   <img src="https://count.getloli.com/@:NoTinyxd?name=NoTinyxd&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
 </div>
 
-<br/>
-
-<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px; margin-top: 10px;" />
+<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px; margin-top: 25px;" />
 
 ### hey, i'm notinyxd
 i love coding, mostly trying new stuff and i'm currently interested in  
@@ -43,8 +41,7 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <a href="https://github.com/NoTinyxd">
     <img src="https://img.shields.io/github/followers/NoTinyxd?style=flat-square&color=000&labelColor=000&logo=github" alt="GitHub followers" />
   </a>
-</div>
-<div align="center">
+  <br/>
   <a href="https://discord.com/users/1069163000910585966">
     <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true&borderRadius=10px" alt="Discord Presence" />
   </a>
