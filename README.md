@@ -4,7 +4,7 @@
 
 <br/>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px;" />
+<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px; margin-top: 10px;" />
 
 ### hey, i'm notinyxd
 i love coding, mostly trying new stuff and i'm currently interested in  
