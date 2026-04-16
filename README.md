@@ -2,7 +2,7 @@
   <img src="https://count.getloli.com/@NoTinyxd?name=NoTinyxd&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
 </div>
 
-<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 12px; margin-top: 25px;" />
+<img align="right" src="https://avatars.githubusercontent.com/u/160841329?v=4" width="88" style="border-radius: 12px; margin-left: 5px; margin-top: 25px;" />
 
 ### hey, i'm notinyxd
 i love coding, mostly trying new stuff and i'm currently interested in  
