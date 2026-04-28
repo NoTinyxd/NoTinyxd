@@ -22,13 +22,13 @@ reverse engineering and js things. i code in python mostly and sometimes in js
 
 ### tools & frameworks
 <div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Omarchy-000000?style=flat-square&logo=linux&logoColor=white" alt="Omarchy" />
 </div>
-
 ### find me
   <br/>
   <a href="https://discord.com/users/1069163000910585966">
