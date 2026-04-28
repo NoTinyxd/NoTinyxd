@@ -29,7 +29,7 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Omarchy-000000?style=flat-square&logo=linux&logoColor=white" alt="Omarchy" />
 </div>
-### find me
+### find Me
   <br/>
   <a href="https://discord.com/users/1069163000910585966">
     <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true&borderRadius=10px" alt="Discord Presence" />
