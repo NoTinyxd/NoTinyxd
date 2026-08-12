@@ -18,7 +18,6 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="50" alt="Arch Linux"/>
 </div>
 
-### find me
 <div align="center">
   <br/>
   <a href="https://discord.com/users/1069163000910585966">
