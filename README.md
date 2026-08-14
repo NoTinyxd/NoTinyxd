@@ -22,6 +22,6 @@ reverse engineering and js things. i code in python mostly and sometimes in js
 <div align="center">
   <br/>
   <a href="https://discord.com/users/1069163000910585966">
-    <img src="https://dcdn.dstn.to/card/1069163000910585966" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/1069163000910585966?theme=dark&bg=0d1117&animated=true&borderRadius=10px" alt="Discord Presence" />
   </a>
 </div>
