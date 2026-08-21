@@ -13,9 +13,13 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
 </div>
 
-### tools & frameworks
+### os
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="50" alt="Arch Linux"/>
+</div>
+
+### tools & frameworks
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
 </div>
 
