@@ -16,6 +16,7 @@ reverse engineering and js things. i code in python mostly and sometimes in js
 ### tools & frameworks
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" height="50" alt="Arch Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
 </div>
 
 ### discord presence
