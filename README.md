@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://count.getloli.com/@NoTinyxd?name=NoTinyxd&theme=love-and-deepspace&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
+  <img src="https://count.getloli.com/@NoTinyxd?name=NoTinyxd&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
 </div>
 
 ### hey, i'm notinyxd
