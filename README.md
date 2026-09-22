@@ -31,5 +31,8 @@ reverse engineering and js things. i code in python mostly and sometimes in js
   </a>
 </div>
 
-###lastfmm
+### lastfm
+<div align="center">
+
 [![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=notinyxd&profile=off&footer=stats)](https://www.last.fm/user/notinyxd)
+</div>
