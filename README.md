@@ -30,3 +30,6 @@ reverse engineering and js things. i code in python mostly and sometimes in js
     <img src="https://lanyard.cnrad.dev/api/1069163000910585966?showDisplayName=true" alt="lanyard" />
   </a>
 </div>
+
+###lastfmm
+[![Last.fm recently played](https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=notinyxd&profile=off&footer=stats)](https://www.last.fm/user/notinyxd)
